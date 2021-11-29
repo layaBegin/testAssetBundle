@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 663760216
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a41917ed71f66933d189c48d1ea2d00e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Material/material2.mat
+- Assets/Material/material1.mat
+Dependencies:
+- D:/UnityProject/testAssetBundle/Assets/StreamingAssets/AssetBundle/sp

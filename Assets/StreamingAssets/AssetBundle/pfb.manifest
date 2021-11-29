@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2060123329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85dc62730b178be2881557daaa3cb424
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: daf156babfe3de8e4fceef9dfc8f8cd1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6174059ed2cde2840815542bf3242a73, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Image.prefab
+- Assets/Prefabs/Cube.prefab
+- Assets/Prefabs/Sphere.prefab
+Dependencies:
+- D:/UnityProject/testAssetBundle/Assets/StreamingAssets/AssetBundle/mat

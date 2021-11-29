@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2768016913
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: pfb
+      Dependencies:
+        Dependency_0: mat
+    Info_1:
+      Name: sce
+      Dependencies:
+        Dependency_0: sp
+    Info_2:
+      Name: mat
+      Dependencies:
+        Dependency_0: sp
+    Info_3:
+      Name: sp
+      Dependencies: {}
